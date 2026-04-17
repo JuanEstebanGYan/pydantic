@@ -1,5 +1,6 @@
 
-# Pydantic Project Setup
+# Pydantic Project Setup - Chatbot with gradio
+Portfolio - Simple Chatbot
 
 ## Prerequisites
 Ensure you have Python installed on your system.
